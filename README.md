@@ -40,7 +40,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: neilpatel8501@gmail.com
 
+<!--
 - 👨‍💻 All of my projects are available at: [Zecil Jain Projects](https://github.com/zeciljain8197)
+-->
 
 - 😄 Pronouns: He/Him
 
