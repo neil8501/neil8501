@@ -71,10 +71,3 @@ Here are some ideas to get you started:
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="Wordpress" width="40" height="40"/> </a> 
 </p>
-
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeciljain8197&show_icons=true&locale=en&layout=compact" alt="zeciljain8197" /></p>
-
-<p><img align="middle" src="https://github-readme-stats.vercel.app/api?username=zeciljain8197&show_icons=true&locale=en" alt="zeciljain8197" /></p>
-
-<p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=zeciljain8197&" alt="zeciljain8197" /></p>
-
