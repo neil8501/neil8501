@@ -1,4 +1,4 @@
-<!--
+
 ### Hi there 👋, I'm Neil Patel
 
 - 🌱 I’m currently learning Machine Learning
@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: neilpatel8501@gmail.com
 
-
--->
