@@ -1,6 +1,8 @@
 
 ### Hi there 👋, I'm Neil Patel
 
+<img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif">
+
 - 🌱 Working on Machine Learning/ Deep Learning
 
 - 👯 I’m looking to collaborate on a Machine Learning Project
