@@ -1,11 +1,11 @@
 
 ### Hi there 👋, I'm Neil Patel
 
-- 🌱 I’m currently learning Machine Learning
+- 🌱 Working on Machine Learning/ Deep Learning
 
 - 👯 I’m looking to collaborate on a Machine Learning Project
 
-- 💬 Ask me about Python, SQL, Django
+- 💬 Skills - Python, SQL, Django, Tableau, Power BI.
 
 - 📫 How to reach me: neilpatel8501@gmail.com
 
