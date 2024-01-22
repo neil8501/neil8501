@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on a Machine Learning Project
 
-- 💬 Ask me about Python, SQL, Django
+- 💬 Ask me about Python, SQL, Django, Tableau, Power BI.
 
-- 📫 How to reach me: neilpatel8501@gmail.com
+- 📫 How to reach me: npate111@kent.edu
 
 -->
