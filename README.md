@@ -2,24 +2,28 @@
 
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif">
 
-Welcome to my GitHub profile! I'm a passionate Machine Learning and Deep Learning enthusiast, constantly exploring the fascinating world of AI and data science.
+Welcome to my GitHub profile! I'm a passionate software developer and data enthusiast, constantly exploring the fascinating worlds of AI, machine learning, data science, and big data.
 
 ---
 
 #### 🚀 About Me:
-- 🌱 **Current Focus**: Working on Machine Learning and Deep Learning projects.
-- 👯 **Looking to Collaborate**: I'm always eager to collaborate on innovative Machine Learning projects. If you have an idea, let's make it happen!
+- 🌱 **Current Focus**: Working on Machine Learning, Deep Learning, and Big Data projects.
+- 👯 **Looking to Collaborate**: I'm always eager to collaborate on innovative Machine Learning, Data Engineering, and Web Development projects. If you have an idea, let's make it happen!
 - 💬 **Skills**:
-  - **Programming**: Python, SQL
-  - **Web Development**: Django
+  - **Programming Languages & Frameworks**: Python, SQL, JavaScript, Node.js, C/C++, R, Java, Scala, Go (Golang), Ruby, React, Django, Flask, FastAPI
+  - **Data Science, Machine Learning, & Big Data**: Machine Learning (ML), Natural Language Processing (NLP), GANs, LSTM, PyTorch, TensorFlow, Scikit-Learn, Keras, Pandas, Hugging Face Transformers, DVC (Data Version Control), MLflow, OpenCV, Apache Spark, Hadoop, Apache Kafka, Airflow, Apache Beam, Presto (or Trino), MapReduce, Data Warehouse, Data Management, Data Analytics
+  - **Cloud Computing, Databases, & DevOps**: AWS, Google Cloud Platform, Heroku, Microsoft Azure, Docker, Kubernetes, Terraform, Ansible, Azure DevOps, Firebase, MySQL, PostgreSQL, MongoDB, Snowflake, Databricks, Redis, Cassandra, Couchbase, Neo4j, Amazon Redshift, Google BigQuery, ClickHouse
   - **Data Visualization**: Tableau, Power BI
+  - **Tools & Platforms**: PyCharm, REST APIs, Atom, Jupyter, Prometheus, Grafana, Splunk, Vagrant
+  - **Networking & Others**: TCP/IP, Linux, Unit Testing, CI/CD Pipeline
+
 
 ---
 
 #### 📫 Get in Touch:
-- Email: [neilpatel8501@gmail.com](mailto:neilpatel8501@gmail.com)
-- LinkedIn: [Neil Patel](https://www.linkedin.com/in/neil-patel/)
-- Personal Blog: [My AI Journey](https://neilpatel-blog.com)
+- Email ID: [neilpatel.8001@gmail.com](mailto:neilpatel.8001@gmail.com)
+- LinkedIn: [Neil Patel](https://www.linkedin.com/in/neil-patel-dev/)
+- Personal Porfolio Website: [My AI Journey](https://neilpatel-blog.com)
 
 ---
 <!--
@@ -47,6 +51,7 @@ Here are some highlights of my work and contributions to the community:
 - TensorFlow and Keras for Deep Learning.
 - React Native for Mobile Developement.
 - Google Data Analytics Certification.
+- Meta Coding interview Certification.
 
 ---
 <!--
