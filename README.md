@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Machine Learning and Deep Learnin
 - Personal Blog: [My AI Journey](https://neilpatel-blog.com)
 
 ---
-
+<!--
 #### 💼 Projects and Contributions:
 Here are some highlights of my work and contributions to the community:
 
@@ -31,28 +31,33 @@ Here are some highlights of my work and contributions to the community:
 3. **[Django Blog](https://github.com/neil8501/django-blog)** - A simple, yet powerful blog platform built with Django.
 
 ---
+-->
 
 #### 🌟 Highlights:
-- **Kaggle Competitions**: Actively participating in Kaggle competitions to test and improve my skills.
-- **Open Source Contributions**: Contributing to open-source projects, especially in the ML and DL domains.
-- **Workshops and Talks**: Conducting workshops and giving talks on Machine Learning and Data Science topics.
+- **Software Developer**: As a Studnet at Kent State University, I have Worked on the End to End Deployment of the Application which were both web and Mobile based.
+- **Open Source Contributions**: Contributing to open-source projects, especially in the Machine Learning domains.
+- **Open to Work**: Gradutate student at KSU, 2024 looking for Full-time jobs in Development Field.
 
 ---
 
 #### 🧠 Currently Learning:
 - Advanced NLP techniques and applications.
-- Reinforcement Learning.
+- CI/CD Pipelines with jetkins and Gitlab.
 - Deployment of Machine Learning models using cloud platforms.
+- TensorFlow and Keras for Deep Learning.
+- React Native for Mobile Developement.
+- Google Data Analytics Certification.
 
 ---
-
+<!--
 #### 🎯 Goals for 2024:
 - Contribute to at least 5 open-source projects.
 - Complete a certification in Advanced Machine Learning.
 - Publish a research paper on Deep Learning applications.
 
 ---
+-->
 
-Thank you for visiting my profile! Let's connect and collaborate to create something amazing in the world of AI and data science.
+Thank you for visiting my profile! Let's connect and collaborate to create something amazing in the world of Developers 😁.
 
 ---
