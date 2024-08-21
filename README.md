@@ -44,14 +44,10 @@ Here are some highlights of my work and contributions to the community:
 
 ---
 
-#### 🧠 Currently Learning:
-- Advanced NLP techniques and applications.
-- CI/CD Pipelines with jetkins and Gitlab.
-- Deployment of Machine Learning models using cloud platforms.
-- TensorFlow and Keras for Deep Learning.
-- React Native for Mobile Developement.
-- Google Data Analytics Certification.
-- Meta Coding interview Certification.
+## Get in touch
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neilpatel.8001@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neil-patel-dev/)
+[![website](https://img.shields.io/badge/web_site-8B5BE8?style=for-the-badge&logo=ko-fi&logoColor=white)](https://neil-patel-2001.web.app/)
 
 ---
 <!--
