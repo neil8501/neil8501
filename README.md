@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Neil Patel
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzeciljain8197&label=Views&labelColor=%230e0a8a&countColor=%23d9e3f0&style=plastic&labelStyle=none)
+
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/720/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 Welcome to my GitHub profile! I'm a passionate software developer and data enthusiast, constantly exploring the fascinating worlds of AI, machine learning, data science, and big data.
